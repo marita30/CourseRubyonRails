@@ -23,13 +23,13 @@ Things you may want to cover:
 * Deployment instructions
 ```
 ## Desarrollo 🔧
-* _Para instalar Rails_
+* _Para instalar Rails:_
 Gem Install rails.
 
-* _Para crear una carpeta (con su estacion de trabajo) desde la terminal_
+* _Para crear una carpeta (con su estacion de trabajo) desde la terminal:_
 rails (NOMBRE DE LA CARPETA).
 
-* _Para correr el servidor y verla desde el navegador_
+* _Para correr el servidor y verla desde el navegador:_
 rails server (localhost:3000).
 
 
