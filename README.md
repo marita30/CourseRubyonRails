@@ -32,4 +32,7 @@ rails (NOMBRE DE LA CARPETA).
 * _Para correr el servidor y verla desde el navegador:_
 rails server (localhost:3000).
 
+```
+En la carpeta config en el archivo routes.rb....Es donde se declaran las rutas para el navegador.
+```
 
