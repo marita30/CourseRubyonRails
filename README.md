@@ -34,7 +34,7 @@ rails server (localhost:3000).
 
 * _Para lamat un generate:  rails generate model (nombre del modelo) en este caso seria article y luego le definimos los campos que queremos que tenga la tabla: ejemplo rails generate model Article title body:text visits_count: integer
 
-** Nota: los dos puntos que tiene la columna body es el tipo de datos ya sea enteros, decimal , texto ect... y si no pones los dos puntos automaticamente rails te lo pone como string en ese caso title.
+** Nota: los dos puntos que tiene la columna body es el tipo de datos ya sea enteros, decimal , texto ect... y si no pones los dos puntos automaticamente rails te lo pone como string en ese caso title **.
 
 ```
 * En la carpeta config en el archivo routes.rb....Es donde se declaran las rutas para el navegador.
