@@ -40,4 +40,5 @@ rails server (localhost:3000).
 * En la carpeta config en el archivo routes.rb....Es donde se declaran las rutas para el navegador.
 
 ```
+*_Rake es el comando que cuando lo ejecutas se borra la base de datos de pruebas._
 
