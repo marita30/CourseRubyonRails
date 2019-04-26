@@ -32,7 +32,7 @@ rails (NOMBRE DE LA CARPETA).
 * _Para correr el servidor y verla desde el navegador:_
 rails server (localhost:3000).
 
-* _Para llamar un generate:  rails generate model (nombre del modelo) en este caso seria article y luego le definimos los campos que queremos que tenga la tabla: ejemplo rails generate model Article title body:text visits_count: integer
+* _Para llamar un generate:  rails generate model (nombre del modelo) en este caso seria article y luego le definimos los campos que queremos que tenga la tabla: ejemplo rails generate model Article title body:text visits_count: integer_
 
 ** Nota: los dos puntos que tiene la columna body es el tipo de datos ya sea enteros, decimal , texto ect... y si no pones los dos puntos automaticamente rails te lo pone como string en ese caso title **.
 
