@@ -42,4 +42,5 @@ rails server (localhost:3000).
 ```
 * _Rake es el comando que cuando lo ejecutas se borra la base de datos de pruebas._
 * _rake db:migrate----> ejecuta las queries a la base de datos._
+* _rake db:rollback ---> Elimina la base de datos._
 
